@@ -1,1 +1,1 @@
-# Design_Patterns_Lab8_PorcarinAndrei
+# Design_Patterns_Lab8_StefoniDarius
